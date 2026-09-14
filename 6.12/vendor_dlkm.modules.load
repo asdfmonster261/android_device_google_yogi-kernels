@@ -38,7 +38,6 @@ p9221.ko
 pca9468.ko
 rt9471_charger.ko
 gs-panel-common-test.ko
-drm_g2d.ko
 google-dpa.ko
 santafe.ko
 gxp.ko
@@ -115,3 +114,4 @@ bcmdhd4390.ko
 cfg80211.ko
 mac80211.ko
 wonder.ko
+drm_g2d.ko
