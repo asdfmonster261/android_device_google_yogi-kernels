@@ -88,3 +88,4 @@ ieee802154.ko
 ieee802154_socket.ko
 mac802154.ko
 nfc.ko
+pretimeout_dump.ko
